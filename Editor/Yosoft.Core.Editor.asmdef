@@ -2,10 +2,10 @@
     "name": "Yosoft.Core.Editor",
     "rootNamespace": "",
     "references": [],
-    "includePlatforms": [
+    "includePlatforms": [],
+    "excludePlatforms": [
         "Editor"
     ],
-    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
